@@ -1,0 +1,5 @@
+Ventas totales por categoria:
+Categoria 1: $5369.600098
+Categoria 2: $6701.500000
+Categoria 3: $4691.000000
+Ventas totales: $16762.099609
