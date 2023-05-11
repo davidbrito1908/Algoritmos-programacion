@@ -34,7 +34,7 @@ void main(){
 
     //MOSTRAR RESULTADOS POR PANTALLA
     printf("\nVentas totales por categoria:\n");
-    for(i=0;i<3;i++){
+    for(i=0;i<n_categorias;i++){
         printf("Categoria %i: $%f\n", i+1, total_cat[i]);
     }
     printf("Ventas totales: $%f\n", ventas_total);
